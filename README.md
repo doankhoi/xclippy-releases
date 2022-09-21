@@ -1,7 +1,7 @@
-## FastClipper
-FastClipper is a tool for anyone who wants to save time in their office life. Save clipboards and reuse its whenever you want.
+## Xclippy
+Xclippy is a tool for anyone who wants to save time in their office life. Save clipboards and reuse its whenever you want.
 
-![FastClipper](banner.png "FastClipper")
+![Xclippy](banner.png "Xclippy")
 
 ### How to use Xclippy
 - Use hotkey to quickly retrieve the contents of a previous clip:
