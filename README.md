@@ -1,12 +1,12 @@
 ## Xclippy
-Xclippy is a tool for anyone who wants to save time in their office life. Save clipboards and reuse its whenever you want.
+Xclippy is a clipboard manager tool for anyone who wants to save time in their office life. Save clipboards and reuse them whenever you want.
 
 ![Xclippy](banner.png "Xclippy")
 
 ### How to use Xclippy
-- Use hotkey to quickly retrieve the contents of a previous clip:
+- Use hotkey to retrieve the contents of a previous clip quickly:
   + `(ctrl | command) + shift + V`
-- Using snipping tool for capture your screen.
+- Using a snipping tool to capture your screen.
   + On MacOS: Press `⇧⌘4` to select an area of your screen.
   + On Windows: Press `Windows Key + Shift + S` to select an area of your screen
 
