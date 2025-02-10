@@ -6,6 +6,10 @@ Xclippy is a tool for anyone who wants to save time in their office life. Save c
 
 ![Xclippy](banner.png "Xclippy")
 
+[🔵 **Windows App**](https://github.com/doankhoi/xclippy-releases/releases/download/v2.1.2/Xclippy.Setup.2.1.2.exe)
+/
+[🟢 **MacOs App**](https://github.com/doankhoi/xclippy-releases/releases/download/v2.1.2/Xclippy-2.1.2.dmg)
+
 ## Features:
 
 - Image Clipboard: You can copy images from the Internet or on your computer
